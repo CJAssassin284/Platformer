@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FoxOverride
+  m_Controller: {fileID: 9100000, guid: 4405f723b034c3e4eb7ac0aeed625212, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2fefcad8f66026749ac8e7cdc745272f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6e3a5af52536bd2479b1eea5e1b90320, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b266bd33b1efdec4c93ee41b3a5ab509, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d8082fa9d92c73b4caeae3db74697348, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6c44d68bcc736ee45ad9c083324867af, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 00324f8347fb4494fa42929331894863, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 65b76d842f4d62f40aac8b15ca2c627d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 693b54769e20d5043bd6c37fa85184de, type: 2}
